@@ -1,0 +1,6 @@
+name,desc,uri,lat,lon,key,value,key,value,id,name,desc,type,uri,unit,formula,key,value,id,name,desc,type,key,value,id,name,desc,type,key,value,id,name,desc,type,key,value,id,name,desc,type,key,value
+冷氣機1,冷氣機1,http://,0,0,test1-0,test1-1,test1-2,test1-3,temp,溫度,test1,gauge,test1,C,test1,test1,test1,humi,濕度,test1,gauge,test1,test1,temp_control,溫度控制,test1,gauge,test1,test1,electric_power,功率,test1,gauge,test1,test1,power_switch,開關,test1,switch,test1,test1
+冷氣機2,冷氣機2,http://,0,0,test2-0,test2-1,test2-2,test2-3,temp,溫度,test2,gauge,test2,C,test2,test2,test2,humi,濕度,test2,gauge,test2,test2,temp_control,溫度控制,test2,gauge,test2,test2,electric_power,功率,test2,gauge,test2,test2,power_switch,開關,test2,switch,test2,test2
+冷氣機3,冷氣機3,http://,0,0,test3-0,test3-1,test3-2,test3-3,temp,溫度,test3,gauge,test3,C,test3,test3,test3,humi,濕度,test3,gauge,test3,test3,temp_control,溫度控制,test3,gauge,test3,test3,electric_power,功率,test3,gauge,test3,test3,power_switch,開關,test3,switch,test3,test3
+冷氣機4,冷氣機4,http://,0,0,test4-0,test4-1,test4-2,test4-3,temp,溫度,test4,gauge,test4,C,test4,test4,test4,humi,濕度,test4,gauge,test4,test4,temp_control,溫度控制,test4,gauge,test4,test4,electric_power,功率,test4,gauge,test4,test4,power_switch,開關,test4,switch,test4,test4
+冷氣機5,冷氣機5,http://,0,0,test5-0,test5-1,test5-2,test5-3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
